@@ -1,0 +1,43 @@
+body{
+  background: #D4AE8D;
+}
+h1{
+  color: red;
+}
+#card{
+  width: 300px;
+  margin-left: 400px;
+  margin-top: 200px;
+  height: 100px;
+  background-color: white;
+  box-shadow: 1px 1px 2px #888888;
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-left-color: #EECE77;
+  border-radius: 0px 5px 5px 0px;
+}
+#word{
+  width: 40%;
+  height: 40%;
+  margin-left: 8%;
+  margin-top: 25px;
+  border: 0.5px solid #D4AE8D;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 13px;
+  opacity: 0.8;
+}
+#submit{
+  width: 35%;
+  height: 48%;
+  margin-left: 5%;
+  margin-top: 25px;
+  display: inline-block;
+  background-color: #EE684B;
+  border: 0.5px solid #D4AE8D;
+  box-shadow: inset 0px 1px 1px white,0px 3px 3px #888888;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+}
